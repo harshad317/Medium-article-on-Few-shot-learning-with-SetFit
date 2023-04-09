@@ -9,4 +9,7 @@ Different models used and there performance:
 | 11 |SetFit (MP-Net) | 66.9 | 110M |
 | 12 |GPT-3 | 62.7 | 175 B |
 
+## Article link:
+https://medium.com/@hhpatil001/setfit-efficient-way-to-do-few-shot-learning-1f7c5d79d4a6
+
 ### Please give a star if you like my work!
