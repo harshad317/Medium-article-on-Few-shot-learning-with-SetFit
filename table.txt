@@ -1,0 +1,8 @@
+| Rank | Method | Acuracy | Model Size |
+| ---- | ------ | ------- | ---------- |
+| 2    | T-Few | 75.8 | 11B |
+| 4    | Human Baseline | 73.5 | NA |
+| 6    | SetFit(RoBERTa large) | 71.3 | 355M |
+| 9    | PET | 69.6 | 235M |
+| 11   | SetFit (Mp-Net) | 66.9 | 110M |
+| 12   | GPT-3 | 62.7 | 175B |
