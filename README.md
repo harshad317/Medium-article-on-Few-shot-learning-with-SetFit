@@ -1,4 +1,4 @@
-# Medium-article-on-Few-shot-learning-with-SetFit
+# Medium article on Few shot learning with SetFit
 Different models used and there performance:
 | Rank | Method | Accuracy | Model Size |
 | ---- | ------ | -------- | --------- |
