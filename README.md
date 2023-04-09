@@ -1,5 +1,5 @@
 # Medium-article-on-Few-shot-learning-with-SetFit
-
+Different models used and there performance:
 | Rank | Method | Accuracy | Model Size |
 | ---- | ------ | -------- | --------- |
 | 2 | T-Few | 75.8 | 11B |
@@ -8,3 +8,5 @@
 | 9 | PET | 69.6 | 235M |
 | 11 |SetFit (MP-Net) | 66.9 | 110M |
 | 12 |GPT-3 | 62.7 | 175 B |
+
+### Please give a star if you like my work!
